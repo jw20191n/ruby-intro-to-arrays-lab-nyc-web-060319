@@ -22,4 +22,6 @@ def first_element_with_array_methods(array)
   first_country = array.shift()
 end
 
-def 
+def last_element_with_array_methods(array)
+  last_country = array.pop()
+end
